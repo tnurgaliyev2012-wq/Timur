@@ -1,0 +1,6 @@
+{
+  "name": "MathSolve MVP",
+  "description": "A minimalist math solver that explains problems step-by-step for students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
